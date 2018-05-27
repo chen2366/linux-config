@@ -4,9 +4,9 @@ XTerm*VT100.translations: #override <Btn1Up>: select-end(PRIMARY, CLIPBOARD, CUT
   
   
 ! English font  
-xterm*faceName: DejaVu Sans Mono:antialias=True:pixelsize=13  
+xterm*faceName: DejaVu Sans Mono:antialias=True:pixelsize=12
 ! Chinese font  
-xterm*faceNameDoublesize:WenQuanYi Zen Hei Mono:antialias=True:pixelsize=13  
+xterm*faceNameDoublesize:WenQuanYi Zen Hei Mono:antialias=True:pixelsize=12
   
   
 !input method  
@@ -15,4 +15,4 @@ XTerm*inputMethod:fcitx
 ! scrollbar  
 XTerm*scrollBar: true  
 XTerm*rightScrollBar: true  
-XTerm*SaveLines: 4096  
+XTerm*SaveLines: 4096
